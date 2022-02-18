@@ -1,0 +1,29 @@
+/* Presets */ 
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+@font-face {
+    font-family: Stay Pixel;
+    src: url(fonts/StayPixelRegular.ttf);
+   }
+
+/* Header */ 
+
+#background {
+	background-color: #697268;
+}
+
+#logotext {
+	font-family: Stay Pixel;
+	color: #B7D1DA;
+}
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
